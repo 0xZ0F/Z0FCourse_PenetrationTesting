@@ -3,7 +3,7 @@ Offensive computer security course by Z0F.
 
 ## Resouces Needed:
 * Ability to run up to 2 VMs at the same time. Preferably VirtualBox.
-* Kali Linux, ParrotSec, or similar.
+* Kali Linux, ParrotSec, or similar. Setup is in the course.
 
 ## Prerequisites
 ### Required:
