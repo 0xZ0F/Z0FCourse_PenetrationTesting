@@ -29,9 +29,9 @@ You can, of course, learn from wherever you want.
 ### Prefered:
 * Python 2 and/or 3, they are similar enough that it doesn't really matter. I would recommend learning Python3 because it's newer. You should know however that most Linux distributions come with Python2 installed by default.
 * Bash Scripting - This should be pretty easy if you know the Linux command line. Bash scripting is just Linux commands in a file that can be run.
-<br /><br />You can python here (This course is a bit overkill, but it's still good. Also, feel free to skip the Django stuff):
+<br /><br />Learn Python (This course is a bit overkill, but that's okay. Feel free to skip the Django stuff):
 <br />https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
-<br /><br />You can learn Bash scripting here:
+<br /><br />Learn Bash scripting:
 <br />https://www.youtube.com/watch?v=v-F3YLd6oMw
 
 ## Contact:
