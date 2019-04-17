@@ -16,14 +16,14 @@ Offensive computer security course by Z0F.
 <br />901 - https://www.youtube.com/watch?v=SlzwMKcCoMI&list=PLG49S3nxzAnmlC1ZsppuM7yleDuYCMHrv
 <br />902 - https://www.youtube.com/watch?v=Ni4Aq1LSZvI&list=PLG49S3nxzAnmLq5TLtC0udUaXSaRiPc4v
 
-<br /><br />Network+ Course:
+<br />Network+ Course:
 <br />https://www.youtube.com/watch?v=LWJ8PHvAL6k&list=PLG49S3nxzAnnXcPUJbwikr2xAcmKljbnQ
 
-<br /><br />Security+ Course:
+<br />Security+ Course:
 <br />Playlist 1: https://www.youtube.com/watch?v=dv7I0SkF6P8&list=PLG49S3nxzAnkcKd71N4OjSv4cUXNhoPlQ
 <br />Playlist 2: https://www.youtube.com/watch?v=CdAekWEN4wA&list=PLG49S3nxzAnlhMM1KV5ST1qi3kI87hMpY&index=1
 
-<br /><br />Linux:
+<br />Linux:
 <br />https://www.youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ
 <br />
 You can, of course, learn from wherever you want. 
@@ -34,7 +34,7 @@ You can, of course, learn from wherever you want.
 * Bash Scripting - This should be pretty easy if you know the Linux command line. Bash scripting is just Linux commands in a file that can be run.
 <br />You can python here (This course is a bit overkill, but it's still good. Also, feel free to skip the Django stuff):
 <br />https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
-<br /><br />Bash:
+<br />Bash:
 <br />https://www.youtube.com/watch?v=v-F3YLd6oMw
 
 ## Contact:
