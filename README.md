@@ -15,11 +15,9 @@ Offensive computer security course by Z0F.
 <br />A+ Course:
 <br />901 - https://www.youtube.com/watch?v=SlzwMKcCoMI&list=PLG49S3nxzAnmlC1ZsppuM7yleDuYCMHrv
 <br />902 - https://www.youtube.com/watch?v=Ni4Aq1LSZvI&list=PLG49S3nxzAnmLq5TLtC0udUaXSaRiPc4v
-
-<br />Network+ Course:
+<br /><br />Network+ Course:
 <br />https://www.youtube.com/watch?v=LWJ8PHvAL6k&list=PLG49S3nxzAnnXcPUJbwikr2xAcmKljbnQ
-
-<br />Security+ Course:
+<br /><br />Security+ Course:
 <br />Playlist 1: https://www.youtube.com/watch?v=dv7I0SkF6P8&list=PLG49S3nxzAnkcKd71N4OjSv4cUXNhoPlQ
 <br />Playlist 2: https://www.youtube.com/watch?v=CdAekWEN4wA&list=PLG49S3nxzAnlhMM1KV5ST1qi3kI87hMpY&index=1
 
