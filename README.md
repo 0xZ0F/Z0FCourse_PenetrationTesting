@@ -22,8 +22,7 @@ Offensive computer security course by Z0F.
 <br />Playlist 2: https://www.youtube.com/watch?v=CdAekWEN4wA&list=PLG49S3nxzAnlhMM1KV5ST1qi3kI87hMpY&index=1
 <br /><br />Linux:
 <br />https://www.youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ
-<br />
-You can, of course, learn from wherever you want. 
+<br />You can, of course, learn from wherever you want. 
 <br />That's a lot to take in, I know. Trust me when I say it will be worth it. It may be boring, it was for me, but your better off learning it now rather than figure out you need to learn in when you're already in three months.
 
 ### Prefered:
