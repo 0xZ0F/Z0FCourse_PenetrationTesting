@@ -11,7 +11,7 @@ Offensive computer security course by Z0F.
 * Knowledge about Network+ content - You don't need the certification, just the knowledge.
 * Knowledge about Security+ content - You don't need the certification, just the knowledge.
 * Using Linux
-To learn A+, Network+, and Security+, I recommend [Professor Messer on YouTube](https://www.youtube.com/user/professormesser). Go to his channel and look for the courses in his playlists. A direct link to the playlists are provided below, however, they may not be the latest versions.
+<br />To learn A+, Network+, and Security+, I recommend [Professor Messer on YouTube](https://www.youtube.com/user/professormesser). Go to his channel and look for the courses in his playlists. A direct link to the playlists are provided below, however, they may not be the latest versions.
 A+ Course:
 https://www.youtube.com/watch?v=OS9MJjNK6gA&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K
 
