@@ -1,7 +1,8 @@
 # Z0FCourse - WIP
 Offensive computer security course by Z0F.
+Support me on [Patreon](https://www.patreon.com/z0f)!
 
-## Resouces Needed:
+## Resources Needed:
 * Ability to run up to 2 VMs at the same time. Preferably VirtualBox.
 * Kali Linux, ParrotSec, or similar. Setup is in the course.
 
@@ -25,7 +26,7 @@ Offensive computer security course by Z0F.
 <br /><br />You can, of course, learn from wherever you want. 
 <br />That's a lot to take in, I know. Trust me when I say it will be worth it. It may be boring, it was for me, but you're better off learning it now rather than figure out you need to learn it when you're already in three months.
 
-### Prefered:
+### Preferred:
 * Python 2 and/or 3, they are similar enough that it doesn't really matter. I would recommend learning Python3 because it's newer. You should know however that most Linux distributions come with Python2 installed by default.
 * Bash Scripting - This should be pretty easy if you know the Linux command line. Bash scripting is just Linux commands in a file that can be run.
 <br /><br />Learn Python (This course is a bit overkill, but that's okay. Feel free to skip the Django stuff):
@@ -33,5 +34,7 @@ Offensive computer security course by Z0F.
 <br /><br />Learn Bash scripting:
 <br />https://www.youtube.com/watch?v=v-F3YLd6oMw
 
-## Contact:
+## Contact/Updates:
 [Twitter](https://twitter.com/0xZ0F)
+Become a [Patreon](https://www.patreon.com/z0f) supporter.
+
