@@ -23,7 +23,7 @@ Offensive computer security course by Z0F.
 <br /><br />Linux:
 <br />https://www.youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ
 <br /><br />You can, of course, learn from wherever you want. 
-<br />That's a lot to take in, I know. Trust me when I say it will be worth it. It may be boring, it was for me, but your better off learning it now rather than figure out you need to learn in when you're already in three months.
+<br />That's a lot to take in, I know. Trust me when I say it will be worth it. It may be boring, it was for me, but you're better off learning it now rather than figure out you need to learn it when you're already in three months.
 
 ### Prefered:
 * Python 2 and/or 3, they are similar enough that it doesn't really matter. I would recommend learning Python3 because it's newer. You should know however that most Linux distributions come with Python2 installed by default.
