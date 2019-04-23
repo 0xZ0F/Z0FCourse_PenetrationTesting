@@ -27,32 +27,28 @@ Next let's setup the machines.
 <br />It should look like this:
 
 <p align="center">
-  <img height="400" src="img/Setup01.PNG">
+  <img height="400" src="img/Setup01.png">
 </p>
-
-<img src="img/Setup01.PNG" style="height: 400px; display: block; margin-left: auto; margin-right: auto;"/>
 
 3. Click create. The "File Size" is how much storage you will give the VM. Give the VM at least 30GB, I would recommend 50GB. You can change the location of the VM's storage drive by clicking the folder icon next to the name. This is helpful if one of your physical drives doesn't have much room.
 <br />It should look like this:
 
 <p align="center">
-  <img height="400" src="img/Setup02.PNG">
+  <img height="400" src="img/Setup02.png">
 </p>
-
-<img src="img/Setup02.PNG" style="height: 400px; display: block; margin-left: auto; margin-right: auto;"/>
 
 4. Click "Create" and that's done!
 5. Now go to the settings of that VM by highlighting and clicking the gear at the top or right clicking the VM.
 6. Go to "Storage", click on the CD under storage devices, then click the CD icon on the right which will show a drop down menu. Then click "Choose Virtual Optical Disk File" and select the ISO you downloaded. See image:
 
 <p align="center">
-  <img height="400" src="img/Setup03.PNG">
+  <img height="400" src="img/Setup03.png">
 </p>
 
 7. Go to the "Network" tab and select "Bridged Adapter". This will let the VM act like another machine on your network. We will change this later, but it will do for now. See image:
 
 <p align="center">
-  <img height="400" src="img/Setup04.PNG">
+  <img height="400" src="img/Setup04.png">
 </p>
 
 8. I would recommend going to the "Display" tab and setting the video memory amount to the highest possible. You may also find that enabling 3D acceleration will help with VM performance. It's important to know that a VM is going to be a little slow.
