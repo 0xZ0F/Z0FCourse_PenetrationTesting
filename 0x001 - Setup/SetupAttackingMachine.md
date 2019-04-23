@@ -30,12 +30,16 @@ Next let's setup the machines.
   <img height="400" src="img/Setup01.PNG">
 </p>
 
+<img src="img/Setup01.PNG" style="height: 400px; display: block; margin-left: auto; margin-right: auto;"/>
+
 3. Click create. The "File Size" is how much storage you will give the VM. Give the VM at least 30GB, I would recommend 50GB. You can change the location of the VM's storage drive by clicking the folder icon next to the name. This is helpful if one of your physical drives doesn't have much room.
 <br />It should look like this:
 
 <p align="center">
   <img height="400" src="img/Setup02.PNG">
 </p>
+
+<img src="img/Setup02.PNG" style="height: 400px; display: block; margin-left: auto; margin-right: auto;"/>
 
 4. Click "Create" and that's done!
 5. Now go to the settings of that VM by highlighting and clicking the gear at the top or right clicking the VM.
