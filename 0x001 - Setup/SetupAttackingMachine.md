@@ -53,4 +53,4 @@ Next let's setup the machines.
 
 8. I would recommend going to the "Display" tab and setting the video memory amount to the highest possible. You may also find that enabling 3D acceleration will help with VM performance. It's important to know that a VM is going to be a little slow.
 
-WIP
+# WIP
