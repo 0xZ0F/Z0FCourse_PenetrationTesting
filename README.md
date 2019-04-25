@@ -30,7 +30,7 @@ I can't provide a download for all things such as a Windows ISO for legal reason
 <br />That's a lot to take in, I know. Trust me when I say it will be worth it. It may be boring, it was for me, but you're better off learning it now rather than figure out you need to learn it when you're already in three months.
 
 ### Preferred:
-* Python 2 and/or 3, they are similar enough that it doesn't really matter. I would recommend learning Python3 because it's newer. You should know however that most Linux distributions come with Python2 installed by default.
+* Python 2 and/or 3, they are similar enough that it doesn't really matter. I would recommend learning Python3 because it's newer. You should know however that most Linux distributions come with Python2 installed as the primary version.
 * Bash Scripting - This should be pretty easy if you know the Linux command line. Bash scripting is just Linux commands in a file that can be run.
 <br /><br />**Learn Python** (This course is a bit overkill, but that's okay. Feel free to skip the Django stuff):
 <br /> https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
@@ -44,15 +44,8 @@ I use some technical lingo and abbreviations. If you forget what they mean, or d
 
 The course folders are organized in a specific way. Any folders or files with a name surrounded with square brackets, such as "[ignore]", are not important. It's usually something like the images used in the course. 
 
-## FAQ:
-**Q: Why are the courses written in Markdown (.md)?**   
-A: Because it's easy to format things that look good. When a course is finished, I will include PDFs as well as Markdown files. Markdown files are best for viewing the course on GitHub and the PDFs are best if you decide to download the course to your computer.
-
-**Q: Can I download the course?**  
-A: Yes, but do NOT redistribute it.
-
 ## Contact/Updates:
-Follow me on [Twitter](https://twitter.com/0xZ0F)!
+Follow me on Twitter [@0xZ0F](https://twitter.com/0xZ0F)!
 <br /> :heart: Become a [Patreon](https://www.patreon.com/z0f) supporter! :heart:
 
 Please give me any and all **honest** feedback you have. Don't worry about hurting my feelings, I want to make this course as good as I can. I can't do that alone, that's why your feedback is so important.

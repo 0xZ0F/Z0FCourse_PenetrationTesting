@@ -1,4 +1,9 @@
-# Setting Up The Attacking Machine(s) - WIP
+# Setting Up The Attacking Machine(s) - [Not Final]
+
+## Notes:
+I will be showing how to setup the attacking environment in a virtual machine (VM). Feel free to install the OS on a storage drive like you would for a normal OS. I actually bought a small SSD so I can dual-boot Windows and Kali. When I was doing this I had to go into the GRUB boot loader, which for Kali is the blue screen when you boot where you can choose what to boot, and change the default root directory. Hopefully you don't have to do this.
+
+A large portion of this lesson is going to be on other websites. I apologize and this will not be how the other lessons are.
 
 ## Download All The Things:
 For the attacking machine you will need a Linux machine with the required tools. It can be Kali, ParrotSec, Ubuntu, or any other. I would recommend Kali because it's popular and comes with an insane amounts of tools. If you need something more light-weight then I would recommend ParrotSec.
@@ -12,7 +17,7 @@ For the attacking machine you will need a Linux machine with the required tools.
 
 Whatever OS you use, get the 64 bit version or you may encounter issues. You might want to also get a 32 bit Linux OS for when we get to binary exploitation. However, for that I would recommend just getting something like Ubuntu instead of something like Kali since we wont be using many different tools.
 
-## Installation:
+## Setting Up VM:
 I recommend VirtualBox for creating the virtual machines since it's free. You can use VMWare if you would like, however I won't be covering it.  
   
 Before we get started, make sure Intel Virtualization Technology and VT-d are both enabled in the BIOS.
@@ -53,4 +58,20 @@ Next let's setup the machines.
 
 8. I would recommend going to the "Display" tab and setting the video memory amount to the highest possible. You may also find that enabling 3D acceleration will help with VM performance. It's important to know that a VM is going to be a little slow.
 
-# WIP...
+## Setting Up/Installing OS:
+Now it's time to actually install the OS. As previously mentioned, be sure you give the OS a bridged connector and the internet is working. The OS will need an internet connection in order to install some things. If you setup the VM correctly it should all work fine. I won't be showing you how to install the system because it's pretty straight forward and I'm lazy, so instead here are two different links that show you:  
+https://docs.kali.org/installation/kali-linux-hard-disk-install  
+or  
+https://linoxide.com/distros/learn-method-install-kali-linux-virtualbox/  
+Even though the installation is for installing to a hard drive (HDD) it will work for the VM. However, when install you should select the disk that says something like "VBOX HARDDISK".
+
+## Updating:
+To update Linux open a terminal, and type "apt update" then "apt upgrade". You will prompted to confirm the upgrade and type "y", you can also just press enter. If it asks about anything else, just use your best judgment. Future note: you can use the "-y" flag to automatically accept some prompts.
+
+## Installing VirtualBox Guest Additions
+You can install the VBox guest additions in two ways.  
+* You should be able to just run "apt-get install -y virtualbox-guest-x11".  
+* See this link for more:  
+https://docs.kali.org/general-use/kali-linux-virtual-box-guest  
+
+I apologize for all the links, but this stuff is really tedious to go over. I assure you that I will be doing most of the teaching in the future :).
