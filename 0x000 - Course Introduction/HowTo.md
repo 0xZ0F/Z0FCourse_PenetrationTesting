@@ -1,4 +1,6 @@
 # How To Follow This Course
+The courses are structured like so:
+
 Any folders or files with a name surrounded with square brackets, such as "[ignore]", are not important. It's usually something like the images used in the course.
 
 If there are multiple parts to one section, they will be in numerical order if necessary. Any important information will be in files with the "@" prefix.
