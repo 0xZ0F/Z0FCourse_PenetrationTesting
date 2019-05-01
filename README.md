@@ -1,6 +1,8 @@
 # Z0FCourse - WIP
 **Offensive computer security course by Z0F.  
 Support me on [Patreon](https://www.patreon.com/z0f)!**
+
+#### [Table Of Contents](TableOfContents.md)
 <a name="resources"></a>
 ## Resources Needed:
 * Ability to run up to 2 VMs at the same time. Preferably VirtualBox.
