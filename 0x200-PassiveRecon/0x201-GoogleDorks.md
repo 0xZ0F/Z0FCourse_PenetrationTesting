@@ -1,7 +1,4 @@
-# Passive Reconnaissance
-Passive recon, also known as Open Source Intelligence (OSINT) or Information Gathering, is the process of gathering information using public resources such as Google. You will not be actively scanning the servers, instead you will be using everything as intended to gather information. Passive recon is important and can reveal a lot more information than you may think. It's easy to find out what things a company uses by using passive recon.
-
-## Google Dorks / Google Hacking:
+# Google Dorks / Google Hacking:
 Google dorks are special searches you can perform on Google to find specific information. Say for example you want to find any PDF files related to a specific website, you can do that with special search terms. To accomplish this we can use search parameters such as "inurl" or "site".
 
 Let's say we want to search for PDF files hosted on GitHub. We can use the "site" parameter to specify the site we want. We can specify the file type we want to search for with "filetype". The resulting query is:
@@ -20,6 +17,7 @@ You can, and should, search for other file types such as .PDF and .DOC.
 
 It's also possible to find default pages, login pages, configuration pages, and more. Information is exposed more than people think it is. Play around with Google dorks and see what you can find, you'll often be surprised.
 
+## Final Notes:
 You can do these same things on Bing. It's a good idea to use multiple search engines. Doing all of these searches can be tedious, thankfully there are tools that you can use and dorks that other people have made.
 
 Hopefully you can start to see the potential Google dorks have.    
