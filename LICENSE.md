@@ -1,8 +1,6 @@
 "I" or "me" is referring to Z0F.
 
-To become "permitted for teaching", you must support me on Patreon with a $15 USD or higher tier. You are only permitted for teaching while your Patreon subscription is active.  
-  
-The course I am providing is "Z0FCourse".
+To become "permitted for teaching", you must support me on Patreon with a $15 USD or higher tier. You are only permitted for teaching while your Patreon subscription is active.
 
 You are free to download the course for personal use only.   
 
