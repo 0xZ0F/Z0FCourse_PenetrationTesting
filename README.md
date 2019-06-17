@@ -1,4 +1,4 @@
-# Z0FCourse - WIP
+# Z0FCourse - ON HOLD, WORKING ON REVERSE ENGINEERING COURSE
 **Offensive computer security course by Z0F.  
 Support me on [Patreon](https://www.patreon.com/z0f)!**
 
